@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Hemispheric Photo QC & Ranking"
+type: software
+authors:
+  - family-names: "Brenes Pérez"
+    given-names: "Cristian"
+version: "0.5.0"
+date-released: "2026-07-20"
+abstract: "R workflow for quality control, ranking, canopy metric estimation, final selection, and visual binarization auditing of hemispherical photographs."
+keywords:
+  - hemispherical photography
+  - canopy cover
+  - leaf area index
+  - image binarization
+  - quality control
+  - R
+repository-code: "https://github.com/USUARIO/hemispheric-photo-qc-ranking"
